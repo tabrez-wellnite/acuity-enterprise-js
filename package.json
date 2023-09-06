@@ -1,7 +1,7 @@
 {
-  "name": "acuityscheduling",
+  "name": "acuityschedulingenterprise",
   "version": "0.1.9",
-  "description": "Acuity Scheduling JS Dev Kit",
+  "description": "Acuity Scheduling Enterprise JS Dev Kit",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
